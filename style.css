@@ -1,0 +1,124 @@
+.body{
+    background-color: rgb(138, 126, 187);
+}
+.cloth{
+   font-size: 200%;
+    margin-left: 40%;
+}
+.nav ul li{
+    list-style: none;
+    padding: 3px;
+    display: inline;
+    margin: 1rem;
+   
+    
+}
+
+.nav{
+    margin-left: 30%;
+
+}
+a{
+    color: white;
+    text-decoration: none;
+    
+ 
+}
+.word{
+    font-size: 150%;
+    color: white;
+}
+.img{
+    margin-left: 30%;
+}
+.yo{
+    margin-left: 40%;
+  
+}
+.pic{
+    width: 40%;
+    height: 40%;
+    padding-left: 60%;
+}
+.set{
+    display: flex;
+}
+.words{
+    padding-left: 5%;
+    font: 400%;
+}
+.w2{
+    font-size: 200%;
+}
+.scar{
+    display: flex;
+    gap: 50px;
+    margin-left: 8%;
+    margin-right: 8%;
+    margin-top: 2%;
+}
+.view{
+    text-align: center;
+
+}
+.vim{
+    display: flex;
+    margin-left: 10%;
+}
+.q{
+    top: -500px;
+}
+.iii{
+    height:100%;
+    width: 500%;
+    
+}
+.lo{
+    margin-right: 35%;
+}
+.sr{
+    height: 1100%;
+    width: 130%;
+}
+.sc{
+    height: 1100%;
+    width: 130%; 
+}
+.words{
+    text-align: center;
+}
+.v6{
+    display: flex;
+    gap: 120px;
+    list-style: none;
+}
+.btn3{
+    padding: 20px;
+    background-color: palevioletred;
+}
+.msh{
+    margin-left: 10%;
+}
+.msal{
+    width: 90%;
+    height: 100%;
+}
+.dis{
+    padding: 20px;
+    background-color: palevioletred;
+    width: 200px;
+    margin-left: 40%;
+}
+.sel{
+    text-align: center;
+    margin-top: 5%;
+}
+.nj{
+    padding: 10px;
+    width: 200px;
+}
+.btn4{
+    padding: 20px;
+    background-color: palevioletred;
+    width: 200px;
+}
